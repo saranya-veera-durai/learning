@@ -1,0 +1,136 @@
+[
+  {
+    "name": "Ram",
+    "age": 25,
+    "educational_qualifications": [
+      {
+        "class": "10th",
+        "school_name": "Springfield High School",
+        "subjects": [
+          {
+            "name": "Mathematics",
+            "score": 88
+          },
+          {
+            "name": "Science",
+            "score": 92
+          },
+          {
+            "name": "English",
+            "score": 85
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Doe",
+    "age": 25,
+    "educational_qualifications": [
+      {
+        "class": "10th",
+        "school_name": "Springfield High School",
+        "subjects": [
+          {
+            "name": "Mathematics",
+            "score": 88
+          },
+          {
+            "name": "Science",
+            "score": 92
+          },
+          {
+            "name": "English",
+            "score": 85
+          }
+        ]
+      },
+      {
+        "class": "12th",
+        "school_name": "abc High School",
+        "subjects": [
+          {
+            "name": "Mathematics",
+            "score": 88
+          },
+          {
+            "name": "Science",
+            "score": 92
+          },
+          {
+            "name": "English",
+            "score": 85
+          },
+          {
+            "name": "social",
+            "score": 88
+          },
+          {
+            "name": "tamil",
+            "score": 92
+          }
+        ]
+      },
+      {
+        "class": "college",
+        "school_name": "sasssc High School",
+        "subjects": [
+          {
+            "name": "social",
+            "score": 88
+          },
+          {
+            "name": "tamil",
+            "score": 92
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "John",
+    "age": 25,
+    "educational_qualifications": [
+      {
+        "class": "10th",
+        "school_name": "Springfield High School",
+        "subjects": [
+          {
+            "name": "Mathematics",
+            "score": 88
+          },
+          {
+            "name": "Science",
+            "score": 92
+          },
+          {
+            "name": "English",
+            "score": 85
+          }
+        ]
+      },
+      {
+        "class": "12th",
+        "school_name": "xyts High School",
+        "subjects": [
+          {
+            "name": "Mathematics",
+            "score": 88
+          },
+          {
+            "name": "English",
+            "score": 85
+          },
+          {
+            "name": "social",
+            "score": 88
+          },
+          {
+            "name": "tamil",
+            "score": 92
+          }
+        ]
+      }
+    ]
+  }
+]

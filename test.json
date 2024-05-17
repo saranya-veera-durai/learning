@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Ram",
+    "age": 25,
+    "educational_qualifications": {
+      "10th_grade": {
+        "school_name": "Springfield High School",
+        "subjects": [
+          {
+            "name": "Mathematics",
+            "score": 88
+          },
+          {
+            "name": "Science",
+            "score": 92
+          },
+          {
+            "name": "English",
+            "score": 85
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "Doe",
+    "age": 25,
+    "educational_qualifications": {
+      "10th_grade": {
+        "school_name": "Springfield High School",
+        "subjects": [
+          {
+            "name": "Mathematics",
+            "score": 88
+          },
+          {
+            "name": "Science",
+            "score": 92
+          },
+          {
+            "name": "English",
+            "score": 85
+          }
+        ]
+      },
+      "12th_grade": {
+        "school_name": "Springfield High School",
+        "subjects": [
+          {
+            "name": "Mathematics",
+            "score": 90
+          },
+          {
+            "name": "Physics",
+            "score": 95
+          }
+        ]
+      },
+      "college": {
+        "college_name": "Springfield University",
+        "degree": "Bachelor of Science in Computer Science",
+        "subjects": [
+          {
+            "name": "Data Structures",
+            "score": "A"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "name": "John",
+    "age": 25,
+    "educational_qualifications": {
+      "10th_grade": {
+        "school_name": "Springfield High School",
+        "subjects": [
+          {
+            "name": "Mathematics",
+            "score": 88
+          },
+          {
+            "name": "Science",
+            "score": 92
+          },
+          {
+            "name": "English",
+            "score": 85
+          }
+        ]
+      },
+      "12th_grade": {
+        "school_name": "Springfield High School",
+        "subjects": [
+          {
+            "name": "Mathematics",
+            "score": 90
+          },
+          {
+            "name": "Physics",
+            "score": 95
+          },
+          {
+            "name": "Chemistry",
+            "score": 89
+          }
+        ]
+      }
+    }
+  }
+]
