@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Ram",
+    "age": 25,
+    "educational_qualifications": [
+      {
+        "class": "10th",
+        "school_name": "Springfield High School",
+        "subjects": [
+          {
+            "name": "Mathematics",
+            "score": [
+              {
+                "exam": "mid term",
+                "mark": 90
+              }
+            ]
+          },
+          {
+            "name": "Science",
+            "score": [
+              {
+                "exam": "mid term",
+                "mark": 70
+              },
+              {
+                "exam": "half yearly",
+                "mark": 70
+              },
+              {
+                "exam": "annual",
+                "mark": 60
+              }
+            ]
+          },
+          {
+            "name": "English",
+            "score": [
+              {
+                "exam": "half yearly",
+                "mark": 70
+              },
+              {
+                "exam": "annual",
+                "mark": 80
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Doe",
+    "age": 25,
+    "educational_qualifications": [
+      {
+        "class": "10th",
+        "school_name": "Springfield High School",
+        "subjects": [
+          {
+            "name": "Mathematics",
+            "score": [
+              {
+                "exam": "mid yearly",
+                "mark": 70
+              },
+              {
+                "exam": "annual",
+                "mark": 80
+              },
+              {
+                "exam": "half yearly",
+                "mark": 70
+              }
+            ]
+          },
+          {
+            "name": "Science",
+            "score": [
+              {
+                "exam": "half yearly",
+                "mark": 70
+              },
+              {
+                "exam": "half yearly",
+                "mark": 70
+              }
+            ]
+          },
+          {
+            "name": "English",
+            "score": [
+              {
+                "exam": "half yearly",
+                "mark": 70
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class": "12th",
+        "school_name": "abc High School",
+        "subjects": [
+          {
+            "name": "Mathematics",
+            "score": [
+              {
+                "exam": "mid term",
+                "mark": 70
+              },
+              {
+                "exam": "annual",
+                "mark": 80
+              },
+              {
+                "exam": "half yearly",
+                "mark": 70
+              }
+            ]
+          },
+          {
+            "name": "Science",
+            "score": [
+              {
+                "exam": "mid term",
+                "mark": 70
+              },
+              {
+                "exam": "annual",
+                "mark": 80
+              },
+              {
+                "exam": "half yearly",
+                "mark": 70
+              }
+            ]
+          },
+          {
+            "name": "English",
+            "score": [
+              {
+                "exam": "half yearly",
+                "mark": 70
+              }
+            ]
+          },
+          {
+            "name": "social",
+            "score": [
+              {
+                "exam": "mid term",
+                "mark": 70
+              },
+              {
+                "exam": "half yearly",
+                "mark": 70
+              }
+            ]
+          },
+          {
+            "name": "tamil",
+            "score": [
+              {
+                "exam": "mid term",
+                "mark": 70
+              },
+              {
+                "exam": "annual",
+                "mark": 80
+              },
+              {
+                "exam": "half yearly",
+                "mark": 70
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class": "college",
+        "school_name": "sasssc High School",
+        "subjects": [
+          {
+            "name": "social",
+            "score": [
+              {
+                "exam": "mid term",
+                "mark": 70
+              }
+            ]
+          },
+          {
+            "name": "tamil",
+            "score": [
+              {
+                "exam": "annual",
+                "mark": 80
+              },
+              {
+                "exam": "half yearly",
+                "mark": 70
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "John",
+    "age": 25,
+    "educational_qualifications": [
+      {
+        "class": "10th",
+        "school_name": "Springfield High School",
+        "subjects": [
+          {
+            "name": "Mathematics",
+            "score": [
+              {
+                "exam": "mid term",
+                "mark": 70
+              },
+              {
+                "exam": "annual",
+                "mark": 80
+              },
+              {
+                "exam": "half yearly",
+                "mark": 70
+              }
+            ]
+          },
+          {
+            "name": "Science",
+            "score": [
+              {
+                "exam": "half yearly",
+                "mark": 70
+              }
+            ]
+          },
+          {
+            "name": "English",
+            "score": [
+              {
+                "exam": "annual",
+                "mark": 80
+              },
+              {
+                "exam": "half yearly",
+                "mark": 70
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class": "12th",
+        "school_name": "xyts High School",
+        "subjects": [
+          {
+            "name": "Mathematics",
+            "score": [
+              {
+                "exam": "mid term",
+                "mark": 70
+              }
+            ]
+          },
+          {
+            "name": "English",
+            "score": [
+              {
+                "exam": "mid term",
+                "mark": 70
+              },
+              {
+                "exam": "annual",
+                "mark": 80
+              },
+              {
+                "exam": "half yearly",
+                "mark": 70
+              }
+            ]
+          },
+          {
+            "name": "social",
+            "score": [
+              {
+                "exam": "mid term",
+                "mark": 70
+              },
+              {
+                "exam": "annual",
+                "mark": 80
+              },
+              {
+                "exam": "half yearly",
+                "mark": 70
+              }
+            ]
+          },
+          {
+            "name": "tamil",
+            "score": [
+              {
+                "exam": "half yearly",
+                "mark": 70
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
