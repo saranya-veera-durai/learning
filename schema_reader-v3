@@ -1,0 +1,19 @@
+    # Extract the schema of the DataFrame
+
+    
+    schema = df_applicantList_address_final.schema
+
+    # Specify the path to the output CSV file
+    output_path = "/content/new_sql_schema.csv"
+
+    # Open the file in write mode
+    with open(output_path, mode='w', newline='') as file:
+        # Write the header
+        file.write("column_name,data_type,nullable\n")
+        
+        # Write the schema information
+        for field in schema.fields:
+            column_name = field.name
+            data_type = str(field.dataType)
+            nullable = field.nullable
+            file.write(f"{column_name},{data_type},{nullable}\n")
