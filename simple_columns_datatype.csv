@@ -1,0 +1,7 @@
+Field Name,Data Type,Nullable
+id,IntegerType,False
+name,StringType,True
+age,IntegerType,True
+is_student,BooleanType,True
+registration_date,DateType,False
+last_login,TimestampType,True
